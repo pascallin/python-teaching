@@ -22,7 +22,7 @@ python3.9
 Be careful not to fall off!
 ```
 
-2. 源碼運行
+1. 源碼運行
 
 python3默認對文件使用UTF-8編碼
 
@@ -36,12 +36,14 @@ python3默認對文件使用UTF-8編碼
 
 ### 數字
 
-#### 加減乘除
-
 ### 字符串
 ### 數組
 
-著名的`Hello World`程序
+## Python流程控制
+
+### if-else
+
+### for循環
 
 ## 學習資源
 
