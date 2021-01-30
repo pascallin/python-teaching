@@ -6,7 +6,7 @@ For My Sylvia Wong
 
 ## Introduction
 
-- 本課程基於`jupyter lab`和`jupyter notebook`.
+- 本課程的课件基於`jupyter lab`.
 - 目標是打造容易理解的，理論結合實際的Python基礎課
 
 ### Environment
